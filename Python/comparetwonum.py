@@ -1,0 +1,9 @@
+a=int(input("enter the first number: "))
+b=int(input("enter the second number: "))
+print("a>b: ",a>b)
+print("a<=b: ",a<=b)
+
+c=float(input("enter the third num: "))
+print("a<=c",a<=c)
+
+
